@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "convera",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "04e43eeb-362b-458d-a63f-6652bf8217f8",
+			"database_name": "convera-leads-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
